@@ -19,3 +19,43 @@
 # take the qoutiant of the number and continue dividing by 2 while keeping track of the remainder. 
 # keep dividing by 2 until you reach 0
 # then, structure your binary number by reading the number from bottom to top
+
+#__________________________________________________________
+
+
+# Convert the following decimal numbers into a binary
+
+#1. 1698
+
+# 1698 / 2 = 0
+# 849 / 2 = 1
+# 424 / 2 = 0
+# 212 / 2 = 0
+# 106 / 2 = 0
+# 53 / 2 = 1
+# 26 / 2 = 0
+# 13 / 2 = 1
+# 6 / 2 = 0
+# 3/ 2 = 1
+# 1 / 2 = 1
+
+# 11010100010
+# 11010100010
+
+# 2. 2454
+# 01101001111 -J
+# 100110010110 - Correct Answer
+# 100110010110 - Correct Answer 
+
+# 2454 / 2 = 0
+# 1227 / 2 = 1
+# 613 / 2 = 1
+# 306 / 2 = 0
+# 153 / 2 = 1
+# 76 / 2 = 0
+# 38 / 2 = 0
+# 19 / 2 = 1
+# 9 / 2 = 1
+# 4 / 2 = 0
+# 2/ 2 = 0
+# 1/ 2 = 1
